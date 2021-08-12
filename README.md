@@ -53,6 +53,7 @@
 <a href="https://www.topcoder.com/members/......." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="......." height="30" width="40" /></a>
 <a href="https://discord.gg/2qMZReUxFH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2qMZReUxFH" height="30" width="40" /></a>
 <a href="/......." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="......." height="30" width="40" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAvyansh0001%2Favyanshralph?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAvyansh0001%2Favyanshralph.svg?type=shield"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -68,3 +69,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avyansh0001&" alt="avyansh0001" /></p>
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAvyansh0001%2Favyanshralph.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAvyansh0001%2Favyanshralph?ref=badge_large)
