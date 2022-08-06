@@ -17,11 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [avyanshralph.glitch.me](avyanshralph.glitch.me)
 
-- 📝 I regularly write articles on [avyanshralph.glitch.me](avyanshralph.glitch.me)
+- 📝 I regularly write articles on [avyanshralph.xyz](avyanshralph.xyz)
 
 - 💬 Ask me about **How I am making this**
 
-- 📫 How to reach me **ralph.avyansh@gmail.com**
+- 📫 How to reach me **avyansh.ralph@hotmail.com**
 
 - ⚡ Fun fact **Fun Fact is a Fun Fact**
 
